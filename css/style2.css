@@ -868,3 +868,7 @@
 .dark nav {
     background-color: rgb(184, 121, 6);
 }
+.dark nav p 
+{
+    color: white;
+}
