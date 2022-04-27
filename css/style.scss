@@ -9,7 +9,6 @@
   text-transform: capitalize;
 }
 
-$crimson : crimson;
 $black:#0d0d0d;
 $light-bg:#1a1a1a;
 $white:#fff;
@@ -35,7 +34,7 @@ html{
   }
 
   &::-webkit-scrollbar-thumb{
-    background: $crimson;
+    background: #ea9215;
     border-radius: 5rem;
   }
 }
@@ -58,7 +57,7 @@ section{
 
   span{
     text-transform: uppercase;
-    color:$crimson;
+    color:#ea9215;
   }
 }
 
@@ -66,7 +65,7 @@ section{
   display: inline-block;
   margin-top: 1rem;
   border-radius: 5rem;
-  background: $crimson;
+  background: #ea9215;
   padding:.7rem;
   font-size: 1.7rem;
   color:$white;
@@ -79,7 +78,7 @@ section{
     font-size: 1.7rem;
     text-align: center;
     background: $white;
-    color:$crimson;
+    color:#ea9215;
     border-radius: 50%;
     margin-left: 1rem;
     transition: .2s linear;
@@ -107,12 +106,12 @@ section{
     transition: .2s linear;
 
     i{
-      color:$crimson;
+      color:#ea9215;
       padding-right: .5rem;
     }
 
     &:hover{
-      background: $crimson;
+      background: #ea9215;
       padding-bottom: 6rem;
 
       i{
@@ -151,7 +150,7 @@ section{
 
     span{
       font-size: 3rem;
-      color:$crimson;
+      color:#ea9215;
       padding:.5rem 0;
       display: block;
     }
@@ -222,7 +221,7 @@ section{
 
         h3{
           font-size: 5rem;
-          color:$crimson;
+          color:#ea9215;
         }
 
         p{
@@ -291,7 +290,7 @@ section{
         line-height: 4.5rem;
         font-size: 1.7rem;
         border-radius: 50%;
-        background: $crimson;
+        background: #ea9215;
         color:$white;
         text-align: center;
         position: absolute;
@@ -377,7 +376,7 @@ section{
 
         a{
           font-size: 2rem;
-          color:$crimson;
+          color:#ea9215;
 
           &:hover{
             color:$white;
@@ -434,12 +433,12 @@ section{
             color:$white;
 
             &:hover{
-              color:$crimson;
+              color:#ea9215;
             }
 
             i{
               padding-right: .5rem;
-              color:$crimson;
+              color:#ea9215;
             }
           }
         }
@@ -496,7 +495,7 @@ section{
 
           i{
             font-size: 3rem;
-            color:$crimson;
+            color:#ea9215;
           }
 
           h3{
@@ -520,7 +519,7 @@ section{
           margin-right: .3rem;
 
           &:hover{
-            background: $crimson;
+            background: #ea9215;
           }
         }
       }
