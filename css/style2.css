@@ -851,7 +851,7 @@
 .dark {
     background: #333;
 }
-.dark main {
+.dark article {
     background: #333;
     color: white;
 }
